@@ -3,10 +3,14 @@
 }
 
 .contact {
-  cursor: pointer;
-  color: #0088cc;
+  color: black;
 }
 
-.contact:hover {
-  text-decoration: underline;
+ul {
+  float: right;
+}
+
+li {
+  list-style: none;
+
 }
